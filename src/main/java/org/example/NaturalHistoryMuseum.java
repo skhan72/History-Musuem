@@ -1,3 +1,8 @@
+//------------------------------------------------------
+// Assignment 3
+// Written by: Summaiya Khan
+// For SES350 Section (synch zoom) – Spring 2025
+//--------------------------------------------------------
 package org.example;
 
 import java.util.List;
