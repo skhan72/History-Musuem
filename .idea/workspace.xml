@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69108521-a99d-4d9a-ad82-4f29dfa576f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="69108521-a99d-4d9a-ad82-4f29dfa576f5" name="Changes" comment="added client singleton">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LazySingleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1748134749002</updated>
     </task>
+    <task id="LOCAL-00001" summary="added client singleton">
+      <option name="closed" value="true" />
+      <created>1748134972827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748134972827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added client singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="added client singleton" />
   </component>
 </project>
